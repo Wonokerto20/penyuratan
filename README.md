@@ -3,7 +3,8 @@
 
 
 ## TODO
-- [] Dokument pendukung (link)
-- [] Template (link)
-- [] Design DB (upload sql nya)
-- [] Setup project
+- [x] Setup repo project
+- [ ] Dokument pendukung (link)
+- [ ] Template (link)
+- [ ] Design DB (upload sql nya)
+- [ ] Setup project
